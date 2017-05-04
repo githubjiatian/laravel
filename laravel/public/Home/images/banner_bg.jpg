@@ -1,0 +1,220 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>页面未找到 - 买茶网</title>
+<meta name="Keywords" content="" />
+<meta name="Description" content="" />
+<link href="/themes/v3/base.css" rel="stylesheet" />
+<link href="/themes/v31/style.css?v31" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/themes/v31/css/public.css">
+<link href="/themes/v3/pay_fin.css" rel="stylesheet" />
+<script>var process_request = "";</script>
+<script type="text/javascript" src="/js/common.js"></script><script type="text/javascript" src="/js/transport.js"></script><script type="text/javascript" src="/js/utils.js"></script><script src="/statics/js/jquery.js"></script>
+<script src="/js/jquery.cookie.js"></script>
+<script src="/js/jquery.lazyload.min.js"></script>
+<script src="http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js"></script>
+<script src="/statics/js/mcw_common.js"></script>
+<script src="/statics/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" href="/statics/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" />
+<!-- <div class="hengfu" style="background:url(/statics/topic/20121231chunjie/hengfu/bg.jpg) center center; height:80px;">
+	<div style="background:url(/statics/topic/20121231chunjie/hengfu/main.jpg) center center no-repeat; height:80px; width:1058px; margin:0 auto;"></div>
+</div> -->
+<!-- <div class="shipping-notice" style="background:#f3f3f3;height:80px;">
+	<a target="_blank" style="width:995px; margin:0 auto; display:block;" href="http://bbs.maichawang.com/thread-2563-1-1.html"><img src="/statics/topic/20121231chunjie/hengfu/shipping.jpg" alt=""></a>
+</div> -->
+
+<script src="/statics/js/jquery.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){  
+     var user_num = Math.floor(((new Date()).valueOf() - 1432122523748)/1000/3600) + 249246; 
+     
+     var wel_info = "<font color='red'>" + user_num + "</font>位会员的选择";
+     $(".wel").append(wel_info);
+}); 
+</script>
+
+<div id="top">
+	<div class="main">
+		<ul class="fl">
+			<li class="wel"></li>
+			<li id="ECS_MEMBERZONE">载入中...</li>
+		</ul>
+		<ul class="fr">
+			<li><a rel="nofollow" href="/" target="_blank">买茶网</a>|</li>
+			<li><a rel="nofollow" href="/user.php?act=order_list" target="_blank">我的订单</a>|</li>
+			<li><a rel="nofollow" href="/user.php" target="_blank">我的账户</a>|</li>
+			<li><a rel="nofollow" href="/article-48.html" target="_blank">帮助中心</a>|</li>
+			<li><a rel="nofollow" href="#" target="_blank" onClick="window.open('http://b.qq.com/webc.htm?new=0&sid=4008804560&eid=218808P8z8p8y808x8q8x&o=&q=7');">在线客服</a>|</li>
+			<li><a rel="nofollow" href='javascript:window.external.AddFavorite("http://www.maichawang.com/","买茶网")'>收藏本站</a></li>
+		</ul>
+	</div>
+</div>
+
+<div id="header">
+	<div class="topright fr">
+		<div class="phone"></div>
+		<div class="cart"><a href="/flow.php">
+			<input type="button" value="去结算" />
+			您的购物车有<span id="ECS_CARTINFO">...</span>件商品</a></div>
+	</div>
+	<div class="serach fr">
+		<div class="serach_div"><span></span>
+			<form action="/search.php">
+				<input class="btn fr" type="submit" value="搜 索" />
+				<input type="hidden" name="category" value="0" />
+				<input type="text" class="box" value="2017新茶" id="keyword" name="keywords" />
+			</form>
+		</div>
+		<p class="hot_serach">热门搜索：</p>
+	</div>
+			<div class="logo fl" style="position:relative;">
+<!-- <a href="/"><img src="/themes/v31/v31images/logo.png" /></a> -->
+		<a href="/">
+            	<img src="/themes/v32/images/logo.png" width="172" height="63">
+        	</a>    
+            <!-- 	<img src="/themes/v32/images/comment.png" width="120" height="63">		-->
+			<!-- <a class="sub-logo" target="_blank" href="/marketing/2013chunjie.html" style="position:absolute; left:189px; top:6px;"><img src="/statics/images/sub-logo.jpg" alt=""></a> -->
+		</div>
+		<div class="clear"></div>
+</div>
+<div id="nav">
+	<div class="main">
+		<div class="right fr"><a href="/marketing/meizhoutejia.html" target="_blank">每周特价</a>/<a href="/brand.php" target="_blank">品牌专区</a>/<a href="/exchange.php" target="_blank">茶币商城</a></div>
+		<div class="left">
+			<ul>
+				<!-- <a class="xincha_new" href="/marketing/2013xincha.html"><img src="/statics/topic/20130226xincha/images/xincha_new.gif"></a> -->
+				<li class="hover"><a title="买茶网首页" href="/" target="_blank">首页</a></li>
+				
+				<!-- <li><a title="西湖龙井" href="/lvcha/xihulongjing.html" target="_blank">西湖龙井</a></li>
+				<li><a title="铁观音" href="/wulongcha/tieguanyin.html" target="_blank">铁观音</a></li>
+				<li><a title="台湾高山茶" href="/wulongcha/gaoshancha.html" target="_blank">台湾高山茶</a></li>
+				<li><a title="普洱茶" href="/heicha/puercha.html" target="_blank">普洱茶</a></li>
+				<li><a title="安化黑茶" href="/heicha/anhuaheicha.html" target="_blank">安化黑茶</a></li>
+				<li><a title="茶具" href="/chaju.html" target="_blank">茶具</a></li>
+				<li><a title="紫砂" href="/chaju/zishachaju.html" target="_blank">紫砂</a></li> -->
+
+				<li><a title="西湖龙井" href="/lvcha/xihulongjing.html" target="_blank">西湖龙井</a></li>
+				<li><a title="碧螺春" href="/lvcha/biluochun.html" target="_blank">碧螺春</a></li>
+				<li><a title="安吉白茶" href="/lvcha/anjibaicha.html" target="_blank">安吉白茶</a></li>
+				<li><a title="黄山毛峰" href="/lvcha/huangshanmaofeng.html" target="_blank">黄山毛峰</a></li>
+				<li><a title="铁观音" href="/wulongcha/tieguanyin.html" target="_blank">铁观音</a></li>
+				<li><a title="普洱茶" href="/heicha/puercha.html" target="_blank">普洱茶</a></li>
+				<li><a title="安化黑茶" href="/heicha/anhuaheicha.html" target="_blank">安化黑茶</a></li>
+				<li><a title="紫砂" href="/chaju/zishachaju.html" target="_blank">紫砂</a></li>
+
+				<!-- <li><a title="2013新茶抢购" href="/marketing/2013xinchajie.html" target="_blank" style="background: 0 -592px url(/themes/v31/v31images/main.gif) no-repeat; color:#4c8e13;">2013新茶抢购</a></li> -->
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="wrong">
+	<div class="wrong_tex">
+    	<h4>很抱歉，您要访问的页面不存在或已删除...</h4>
+        <div class="wrong_info">您可以点击以下链接继续浏览买茶网</div>
+        <p>
+        	<ul>
+        		<li>返回<a href="javascript:history.go(-1);return false;">上一页</a></li>
+                <li>返回<a href="/">买茶网首页</a></li>
+		    </ul>
+        </p>
+    </div>
+</div>
+<script>setTimeout(function(){window.location.href="/"},10000);</script>
+<div id="footer">
+	<div class="main">
+		<div class="contact fl"><a href="http://weibo.com/teashopping" rel="nofollow" target="_blank"></a></div>
+		<div class="help fr">
+						<dl>
+			<dt class="dt1"></dt>
+					<dd><a rel="nofollow" href="/article-6.html" target="_blank">用户协议</a></dd>
+					<dd><a rel="nofollow" href="/article-47.html" target="_blank">交易条款</a></dd>
+					<dd><a rel="nofollow" href="/article-48.html" target="_blank">购物流程</a></dd>
+					<dd><a rel="nofollow" href="/article-49.html" target="_blank">订单查询</a></dd>
+					<dd><a rel="nofollow" href="/article-50.html" target="_blank">会员积分</a></dd>
+					<dd><a rel="nofollow" href="/article-51.html" target="_blank">优惠券</a></dd>
+				</dl>
+				<dl>
+			<dt class="dt2"></dt>
+					<dd><a rel="nofollow" href="/article-52.html" target="_blank">网上支付</a></dd>
+					<dd><a rel="nofollow" href="/article-53.html" target="_blank">银行转帐</a></dd>
+					<dd><a rel="nofollow" href="/article-54.html" target="_blank">货到付款</a></dd>
+				</dl>
+				<dl>
+			<dt class="dt3"></dt>
+					<dd><a rel="nofollow" href="/article-55.html" target="_blank">普通快递</a></dd>
+					<dd><a rel="nofollow" href="/article-56.html" target="_blank">顺丰快递</a></dd>
+					<dd><a rel="nofollow" href="/article-57.html" target="_blank">EMS特快专递</a></dd>
+					<dd><a rel="nofollow" href="/article-58.html" target="_blank">宅急送</a></dd>
+					<dd><a rel="nofollow" href="/article-59.html" target="_blank">快递查询</a></dd>
+				</dl>
+				<dl>
+			<dt class="dt4"></dt>
+					<dd><a rel="nofollow" href="/article-60.html" target="_blank">服务承诺</a></dd>
+					<dd><a rel="nofollow" href="/article-61.html" target="_blank">退换货原则</a></dd>
+					<dd><a rel="nofollow" href="/article-62.html" target="_blank">退换货流程</a></dd>
+				</dl>
+				<dl>
+			<dt class="dt5"></dt>
+					<dd><a rel="nofollow" href="/article-63.html" target="_blank">我的帐户</a></dd>
+					<dd><a rel="nofollow" href="/article-64.html" target="_blank">找回密码</a></dd>
+					<dd><a rel="nofollow" href="/article-65.html" target="_blank">常见问题</a></dd>
+				</dl>
+				</div>
+		<div class="baozhang clear"></div>
+		<p class="bot_nav"><a href="http://www.maichawang.com/article-107.html" rel="nofollow">关于我们</a> | <a rel="nofollow" href="http://www.maichawang.com/article-6.html">服务条款</a> | <a rel="nofollow" href="http://www.maichawang.com/article-108.html">招商加盟</a> | <a rel="nofollow" href="http://www.maichawang.com/article-109.html">诚聘英才</a> | <a rel="nofollow" href="http://www.maichawang.com/article-110.html">友情链接</a> | <a rel="nofollow" href="http://www.maichawang.com/article-111.html">联系我们</a> | <a rel="nofollow" href="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=4008804560&eid=218808P8z8p8y808x8q8x&o=&q=7')">企业QQ</a><br/>
+			订购及客服电话：400 880 4560 （固话，手机 小灵通，免长途）<br/>
+			版权所有 © 2007-2012 买茶网　沪ICP备12028247号-2 </p>
+		<div class="safe"><a href="http://www.zx110.org/" rel="nofollow" target="_blank" class="zhengxin"></a><a href="http://www.51honest.org/wscredit/detail.credit?action=preLevel&credcode=NO.20000040081" rel="nofollow" target="_blank" class="xinyong_star"></a></div>
+			</div>
+</div>
+<div id="scrolltop"><a href="#"><img src="/themes/v31/img/top.png" alt="返回顶部" /></a></div>
+<div class="kefu" id="piaofuqq" style="top:0; position:absolute; right:0px; z-index:99; display:none;">
+	<img src="/themes/v3/v3_images/kefu.jpg" border="0" usemap="#piaofuqq" id="piaofuqq1" style="display:none;" />
+	<img src="/themes/v3/v3_images/kefu2.png" id="piaofuqq2" style=" cursor:pointer;" onClick="piaofuqq_show();" />
+	<map name="piaofuqq">
+		<area shape="rect" coords="9,48,118,82" href="#" onClick="piaofuqq_open('在线咨询'); return false;">
+		<area shape="rect" coords="9,89,119,122" href="#" onClick="piaofuqq_open('订单查询'); return false;">
+		<area shape="rect" coords="9,129,119,161" href="#" onClick="piaofuqq_open('售后服务'); return false;">
+		<area shape="rect" coords="3,299,129,328" href="javascript:window.external.AddFavorite('http://www.maichawang.com/','买茶网');">
+		<area shape="rect" coords="113,5,129,20" href="javascript:piaofuqq_hide();">
+	</map>
+	<img src="/themes/v3/v3_images/erweima.jpg" id="erweima"  width="132px" style="display:block;" alt="二维码"/>
+</div>
+
+
+<div style="display:none" id="la51"></div>
+<script type="text/javascript">
+// google统计
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-9888227-2']);
+_gaq.push(['_trackPageview']);
+
+_gaq.push(['_addOrganic', 'baidu', 'wd']);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', 'yodao', 'q']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', '360', 'q']);
+
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script src="/statics/js/mcw_common_footer.js"></script>
+<!--[if lte IE 6]>
+<script src="/js/ddpng.js"></script>
+<script>
+DD_belatedPNG.fix('img.tag,#header .logo img,#content .pri_icon,#content .pri_info,.pngfix');
+</script>
+<![endif]-->
+<div style="display:none" id="la51"><script src="http://js.users.51.la/1444642.js"></script></div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a9223194a8f463e4844701fbff0f5717";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>

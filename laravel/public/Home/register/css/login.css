@@ -1,0 +1,35 @@
+@charset "utf-8";
+.login_content{ width:990px; margin: 20px auto; border:1px solid #C2D5AB;}
+.login_conleft{ float:left; width:430px; display:inline; margin:20px 0px 25px 35px; overflow:hidden;}
+.login_conright{ width:460px; float:right; display:inline; margin:20px 0; padding:10px 25px 10px 20px; border-left:1px dotted #ccc;}
+.input_loin2 {width:240px; padding-left:25px; height:25px; line-height:25px; background:#FFF url(../images/lo_1.gif) 1px 3px no-repeat; border:1px solid #CCC; color:#666;}
+.input_mima2 {width:240px; padding-left:25px; height:25px; line-height:25px; background:#FFF url(../images/lo_2.gif) 1px 3px no-repeat; border:1px solid #CCC; color:#666;}
+.for_pwd{ color:#c00; float:right; display:inline; margin-right:110px;}
+.login_btn{ background:url(../images/loginbut.gif) no-repeat; width:171px; height:36px; border:0; color:#fff; font-weight:bold; font-size:14px; letter-spacing:2px; cursor:pointer;}
+.verifi{ width:60px; padding:0 5px; height:25px; line-height:25px; border:1px solid #ccc; color:#666;}
+.color_red{ color:#f00;}
+.not_clear{ padding-left:15px;}
+.not_clear a{ color:#06f; margin-right:10px;}
+.otherload{ padding-top:17px;}
+.otherload p{ padding-bottom:15px; font-size:13px;}
+.otherload a{ margin-right:9px;}
+.gouwu_texdiv{ width:405px; float:right; display:inline;}
+.gouwu_texdiv{ padding:15px 0;}
+.gouwu_texdiv h5 a{ color:#666; font-weight:bold;}
+.gouwu_texdiv p{ color:#666; padding-top:7px; line-height:16px;}
+.login_conright img{ margin-top:10px;}
+/*reg*/
+.reg{ width:870px; margin:10px auto 55px auto;text-align:left;}
+.reg_top{ background: url(../images/reg_topbg.gif) repeat-x; height:40px; font-size:14px; font-weight:bold; line-height:40px; padding-left:20px; color:#fff;}
+.reg_texbox{ width:210px; height:25px; line-height:25px;  border:1px solid #ccc; color:#555; padding:0 3px;}
+.reg_left{ text-align:right; height:35px; width:90px;}
+.reg_btn{ background:url(../images/reg_btn.gif) no-repeat; width:114px; height:36px; border:0; cursor:pointer;}
+.yonghuxieyi{ width:720px; height:100px; padding:5px; color:#555; border:1px solid #ccc;}
+.zhushi{ padding-bottom:15px;}
+.reg_help{ float:right; display:inline; padding-right:40px;}
+.reg_help a{ color:#f60; margin:0 5px;}
+.login_link{ float:right; display:inline; font-size:12px; color:#fff; font-weight:normal; margin-right:20px; width:200px; height:24px; line-height:24px; border:1px solid #4B8604; background: url(../images/regtologin.gif) repeat-x; color:#666; text-align:center; margin-top:7px;}
+.login_link a{ color:#f60; font-weight:bold; margin-left:10px; text-decoration:none;}
+.login_link a:hover{ color:#FF4200;}
+.reg_tishi{ color:#666; padding-left:5px;}
+.bitiantishi{ font-size:12px; font-weight:normal; padding-left:5px;}
